@@ -8,8 +8,6 @@ your code will work when it gets out to the user. This is enhanced by my love
 for CI and automated tests running before every merge is acceptable. Also a
 skilled SRE with an active interest in Kubernetes and IaC, because managing 100
 servers by hand was never a fun job, even at the best of times.
-
-# SKILLS
                  
 ## WORKFLOW
 - DevOps in mind at all times
